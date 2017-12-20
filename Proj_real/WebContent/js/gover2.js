@@ -46,7 +46,7 @@ gover2.prototype.create = function() {
 
 gover2.prototype.backMenu = function(){
 	this.game.sound.stopAll();
-	this.game.state.start("Menu");
+	this.game.state.start("Menu2");
 };
 
 gover2.prototype.backLevel = function(){

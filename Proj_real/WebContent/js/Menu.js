@@ -19,7 +19,7 @@ Menu.prototype.create = function() {
 	this.music = this.add.sound("music_menu") ;
 	this.music.loop =  true;
     this.music.allowMultiple=true ;
-    this.music.play() 
+    this.music.play() ;
 	
 	var cx=this.world.centerX;
 	var mstart = this.add.sprite(cx,180,"mstart");

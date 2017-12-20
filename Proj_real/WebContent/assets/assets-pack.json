@@ -358,6 +358,12 @@
       "key": "N7",
       "url": "assets/images/N7.png",
       "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "menu540",
+      "url": "assets/images/menu540.png",
+      "overwrite": false
     }
   ],
   "preload": [{
@@ -367,7 +373,7 @@
     "overwrite": false
   }],
   "meta": {
-    "generated": "1513751396130",
+    "generated": "1513770148650",
     "app": "Phaser Editor",
     "url": "http://phasereditor.boniatillo.com",
     "version": "1.0",

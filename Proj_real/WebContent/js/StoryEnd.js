@@ -77,5 +77,5 @@ StoryEnd.prototype.showS7 = function() {
 
 StoryEnd.prototype.startGame = function() {
 	this.game.sound.stopAll();
-	this.game.state.start("Menu");
+	this.game.state.start("Menu2");
 };
