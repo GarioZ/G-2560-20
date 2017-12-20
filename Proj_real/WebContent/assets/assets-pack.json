@@ -1,0 +1,376 @@
+{
+  "level": [
+    {
+      "type": "spritesheet",
+      "key": "tile_set",
+      "url": "assets/tilemap/tile_set.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "bgg540",
+      "url": "assets/img/bgg540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "bggg540",
+      "url": "assets/img/bggg540.png",
+      "overwrite": false
+    },
+    {
+      "type": "audio",
+      "key": "music1",
+      "urls": ["assets/music/music1.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "Jump",
+      "urls": ["assets/music/Jump.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "atlas",
+      "key": "zom_re_64",
+      "textureURL": "assets/atlas/zom_re_64.png",
+      "atlasURL": "assets/atlas/zom_re_64.json",
+      "format": "TEXTURE_ATLAS_JSON_HASH"
+    },
+    {
+      "type": "atlas",
+      "key": "person2_re_64",
+      "textureURL": "assets/atlas/person2_re_64.png",
+      "atlasURL": "assets/atlas/person2_re_64.json",
+      "format": "TEXTURE_ATLAS_JSON_HASH"
+    },
+    {
+      "type": "atlas",
+      "key": "person1_re_64",
+      "textureURL": "assets/atlas/person1_re_64.png",
+      "atlasURL": "assets/atlas/person1_re_64.json",
+      "format": "TEXTURE_ATLAS_JSON_HASH"
+    },
+    {
+      "type": "spritesheet",
+      "key": "Cap",
+      "url": "assets/atlas/Cap.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "Kabduk1",
+      "url": "assets/atlas/Kabduk1.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "Kabduk2",
+      "url": "assets/atlas/Kabduk2.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "Kabduk3",
+      "url": "assets/atlas/Kabduk3.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "Kabduk4",
+      "url": "assets/atlas/Kabduk4.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "Kabduk5",
+      "url": "assets/atlas/Kabduk5.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "tilemap",
+      "key": "real_level_1",
+      "url": "assets/tilemap/real_level_1.json",
+      "format": "TILED_JSON"
+    },
+    {
+      "type": "tilemap",
+      "key": "real_level_2",
+      "url": "assets/tilemap/real_level_2.json",
+      "format": "TILED_JSON"
+    },
+    {
+      "type": "spritesheet",
+      "key": "tileset",
+      "url": "assets/tilemap/tileset.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "Kabduk6",
+      "url": "assets/atlas/Kabduk6.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "Cap",
+      "url": "assets/atlas/Cap.png",
+      "overwrite": false
+    },
+    {
+      "type": "audio",
+      "key": "Pick",
+      "urls": ["assets/music/Pick.ogg"],
+      "autoDecode": true
+    }
+  ],
+  "start": [
+    {
+      "type": "image",
+      "key": "mstart",
+      "url": "assets/images/mstart.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "mstory",
+      "url": "assets/images/mstory.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "mteam",
+      "url": "assets/images/mteam.png",
+      "overwrite": false
+    },
+    {
+      "type": "audio",
+      "key": "music",
+      "urls": ["assets/music/music.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "image",
+      "key": "dev540",
+      "url": "assets/img/dev540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s10540",
+      "url": "assets/img/s10540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s11540",
+      "url": "assets/img/s11540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s12540",
+      "url": "assets/img/s12540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s1540",
+      "url": "assets/img/s1540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s2540",
+      "url": "assets/img/s2540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s3540",
+      "url": "assets/img/s3540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s4540",
+      "url": "assets/img/s4540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s5540",
+      "url": "assets/img/s5540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s6540",
+      "url": "assets/img/s6540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s7540",
+      "url": "assets/img/s7540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s8540",
+      "url": "assets/img/s8540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "s9540",
+      "url": "assets/img/s9540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "bggg540",
+      "url": "assets/img/bggg540.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "g_over",
+      "url": "assets/images/g_over.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "mgame",
+      "url": "assets/images/mgame.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "game",
+      "url": "assets/images/game.png",
+      "overwrite": false
+    },
+    {
+      "type": "audio",
+      "key": "gameover",
+      "urls": ["assets/music/g_over.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "image",
+      "key": "menu",
+      "url": "assets/images/menu.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "re",
+      "url": "assets/images/re.png",
+      "overwrite": false
+    },
+    {
+      "type": "audio",
+      "key": "music_menu",
+      "urls": ["assets/music/music_menu.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "end",
+      "urls": ["assets/music/end.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "image",
+      "key": "N1",
+      "url": "assets/images/N1.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "N2",
+      "url": "assets/images/N2.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "N3",
+      "url": "assets/images/N3.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "N4",
+      "url": "assets/images/N4.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "N5",
+      "url": "assets/images/N5.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "N6",
+      "url": "assets/images/N6.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "N7",
+      "url": "assets/images/N7.png",
+      "overwrite": false
+    }
+  ],
+  "preload": [{
+    "type": "image",
+    "key": "loading",
+    "url": "assets/images/loading.png",
+    "overwrite": false
+  }],
+  "meta": {
+    "generated": "1513751396130",
+    "app": "Phaser Editor",
+    "url": "http://phasereditor.boniatillo.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2016"
+  }
+}

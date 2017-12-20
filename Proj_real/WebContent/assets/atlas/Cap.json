@@ -1,0 +1,27 @@
+{
+  "frames": {"9": {
+    "trimmed": true,
+    "rotated": false,
+    "frame": {
+      "x": 2,
+      "y": 2,
+      "w": 18,
+      "h": 32
+    },
+    "spriteSourceSize": {
+      "x": 7,
+      "y": 0,
+      "w": 18,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    }
+  }},
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "cap.png"
+  }
+}

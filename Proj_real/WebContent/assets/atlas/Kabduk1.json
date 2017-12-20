@@ -1,0 +1,27 @@
+{
+  "frames": {"2": {
+    "trimmed": true,
+    "rotated": false,
+    "frame": {
+      "x": 2,
+      "y": 2,
+      "w": 31,
+      "h": 14
+    },
+    "spriteSourceSize": {
+      "x": 1,
+      "y": 0,
+      "w": 31,
+      "h": 14
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    }
+  }},
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "kabduk1.png"
+  }
+}
